@@ -1,4 +1,4 @@
-package kodekube.example;
+package kodekube.example.enumexample;
 
 public class EnumExample {
 
